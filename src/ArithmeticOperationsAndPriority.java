@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PratikAritmetikIslemler {
+public class ArithmeticOperationsAndPriority {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("İlk Sayınızı Giriniz :");
@@ -15,5 +15,7 @@ public class PratikAritmetikIslemler {
         int result = a + (b * c) - b;
 
         System.out.println("Sayılarınızın Toplamı :" + result);
+
+        scanner.close();
     }
 }
