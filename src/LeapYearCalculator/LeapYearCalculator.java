@@ -1,3 +1,5 @@
+package LeapYearCalculator;
+
 import java.util.Scanner;
 
 

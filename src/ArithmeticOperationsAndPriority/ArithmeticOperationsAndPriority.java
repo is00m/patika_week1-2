@@ -1,3 +1,5 @@
+package ArithmeticOperationsAndPriority;
+
 import java.util.Scanner;
 
 public class ArithmeticOperationsAndPriority {

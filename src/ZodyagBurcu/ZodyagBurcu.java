@@ -1,3 +1,5 @@
+package ZodyagBurcu;
+
 import java.util.Scanner;
 
 public class ZodyagBurcu {

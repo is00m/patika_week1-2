@@ -1,3 +1,5 @@
+package FruitShop;
+
 import java.util.Scanner;
 
 public class FruitShop {

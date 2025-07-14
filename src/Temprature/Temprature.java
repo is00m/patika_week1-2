@@ -1,3 +1,5 @@
+package Temprature;
+
 import java.util.Scanner;
 
 public class Temprature {

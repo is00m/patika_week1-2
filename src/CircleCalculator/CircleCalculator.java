@@ -1,3 +1,5 @@
+package CircleCalculator;
+
 import java.util.Scanner;
 
 public class CircleCalculator {

@@ -1,3 +1,5 @@
+package BodyMassIndex;
+
 import java.util.Scanner;
 
 public class BodyMassIndex {
