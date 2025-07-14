@@ -39,7 +39,7 @@ public class FlightTicketCalculator {
             totalPrice *= 2;
         }
 
-        System.out.println("Toplam Tutar = " + totalPrice +" TL");
+        System.out.println("Toplam Tutar = " + totalPrice + " TL");
         scanner.close();
     }
 }

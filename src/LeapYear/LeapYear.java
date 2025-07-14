@@ -1,9 +1,9 @@
-package LeapYearCalculator;
+package LeapYear;
 
 import java.util.Scanner;
 
 
-public class LeapYearCalculator {
+public class LeapYear {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Yıl Giriniz : ");
