@@ -16,7 +16,7 @@ public class ArithmeticOperationsAndPriority {
 
         int result = a + (b * c) - b;
 
-        System.out.println("Sayılarınızın Toplamı :" + result);
+        System.out.println("Sonuç :" + result);
 
         scanner.close();
     }
