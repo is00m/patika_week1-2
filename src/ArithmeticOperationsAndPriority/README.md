@@ -38,8 +38,3 @@ Sonucu ekrana yazdırmak için `System.out.println()` metodunu kullanabilirsiniz
     İkinci Sayınızı Giriniz : 2
     Üçüncü Sayınızı Giriniz : 3
     Sonuç : 14 // 10 + 2 * 3 - 2
----
-    İlk Sayınızı Giriniz : 20
-    İkinci Sayınızı Giriniz : 10
-    Üçüncü Sayınızı Giriniz : 50
-    Sonuç : 510 // 20 + 10 * 50 - 10
