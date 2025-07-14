@@ -37,4 +37,4 @@ Sonucu ekrana yazdırmak için `System.out.println()` metodunu kullanabilirsiniz
     İlk Sayınızı Giriniz : 10
     İkinci Sayınızı Giriniz : 2
     Üçüncü Sayınızı Giriniz : 3
-    Sonuç : 14 // 10 + 2 * 3 - 2
+    Sonuç : 14
