@@ -11,8 +11,6 @@ Kullanıcıdan veri almak için `Scanner` sınıfını kullanabilirsiniz.
 #### İpucu 2:
 Sonucu ekrana yazdırmak için `System.out.println()` metodunu kullanabilirsiniz.
 
-Bol şanslar!
-
 ---
 
 ### Cevap:
