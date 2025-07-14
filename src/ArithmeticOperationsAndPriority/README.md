@@ -17,24 +17,21 @@ Bol şanslar!
 
 ### Cevap:
 
-    // Create Scanner Object for take input from user
     Scanner scanner = new Scanner(System.in);
 
-    // Take 3 numbers for user (a,b,c)
-    System.out.print("1. Sayıyı giriniz: ");
+    System.out.println("İlk Sayınızı Giriniz :");
     int a = scanner.nextInt();
-    System.out.print("2. Sayıyı giriniz: ");
+
+    System.out.println("İkinci Sayınızı Giriniz :");
     int b = scanner.nextInt();
-    System.out.print("3. Sayıyı giriniz: ");
+
+    System.out.println("Üçüncü Sayınızı Giriniz :");
     int c = scanner.nextInt();
 
-    // calculate result by operation priority
-    int result = a + b * c - b;
+    int result = a + (b * c) - b;
 
-    // Output result
-    System.out.println("Sonuç: " + result);
+    System.out.println("Sayılarınızın Toplamı :" + result);
 
-    // Close scanner
     scanner.close();
 
 ### Çıktı:
