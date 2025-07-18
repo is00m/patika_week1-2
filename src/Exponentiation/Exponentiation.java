@@ -12,18 +12,16 @@ public class Exponentiation {
         System.out.print("Üs sayısını girin: ");
         int exponent = scanner.nextInt();
 
-        int result = power(base,exponent);
-
-        System.out.println("Sonuç: "+result);
+        System.out.println("Sonuç: " + power(base, exponent));
 
     }
 
-    public static int power(int base,int exponent){
-         if (exponent == 0){
-             return 1;
-         }else {
-            return base * power(base,exponent -1);
-         }
+    public static int power(int base, int exponent) {
+        if (exponent == 0) {
+            return 1;
+        } else {
+            return base * power(base, exponent - 1);
+        }
 
     }
 }
